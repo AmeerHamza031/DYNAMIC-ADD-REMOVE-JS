@@ -1,0 +1,26 @@
+.container h1 {
+    display: flex;
+    justify-content: center;
+    color: #FF4800;
+    margin-top: 80px;
+}
+
+.container form {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.container .form-control {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container .new {
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+.container .form-group {
+    margin-top: 40px;
+    ;
+}
